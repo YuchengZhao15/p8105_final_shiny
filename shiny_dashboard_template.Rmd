@@ -162,10 +162,6 @@ hospital_map <- leaflet(hospital_data) %>%
 renderLeaflet({ hospital_map })
 ```
 
-### Chart C
 
-```{r}
-
-```
 
 
