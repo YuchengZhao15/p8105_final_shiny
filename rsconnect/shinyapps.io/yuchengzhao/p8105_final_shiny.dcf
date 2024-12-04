@@ -1,0 +1,10 @@
+name: p8105_final_shiny
+title:
+username: yuchengzhao
+account: yuchengzhao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13518208
+bundleId: 9459904
+url: https://yuchengzhao.shinyapps.io/p8105_final_shiny/
+version: 1
